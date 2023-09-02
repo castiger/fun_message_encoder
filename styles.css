@@ -1,0 +1,149 @@
+body {
+text-align: center;
+padding: 0;
+margin: 0;
+background: linear-gradient(to right, #411231, #15056e);
+}
+
+#encodertitle {
+
+    
+color:aqua;
+}
+
+
+#chosentheme {
+    color: rgb(55, 255, 0);
+    font-size: 20px;
+}
+
+
+#phrasedisplay {
+background-color: #1a133f;
+border: 5px solid #1a7799;
+height: 275px;
+width: 750px;
+margin: 0 auto;
+text-align: center;
+font-size: 40px;
+color:aqua;
+}
+
+
+#encodebtn {
+    float: left;
+    font-family: arial black;
+    font-size: 40px;
+    background-image:
+        linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: move 35s linear infinite;
+}
+
+#decodebtn {
+    float: right;
+    font-family: arial black;
+    font-size: 40px;
+    background-image:
+        linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: move 35s linear infinite;
+}
+
+
+
+@keyframes move {
+    to {
+        background-position: 500vh;
+    }
+}
+
+#textboxinput {
+    display: block;
+    height: 100px;
+    width: 300px;
+    margin: 0 auto;
+        text-align: center;
+}
+
+
+#militarybtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: aqua;
+}
+
+#characterbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(166, 0, 255);
+}
+
+#treebtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(43, 255, 0);
+}
+
+#veggiebtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(251, 255, 0);
+}
+
+#fruitbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(255, 106, 0);
+}
+
+#animalbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(140, 83, 255);
+}
+
+#superbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
