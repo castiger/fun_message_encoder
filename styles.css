@@ -103,6 +103,7 @@ color:aqua;
     color: rgb(166, 0, 255);
 }
 
+
 #treebtn {
     background-color: #1a133f;
     border: 5px solid #1a7799;
@@ -114,6 +115,8 @@ color:aqua;
     color: rgb(43, 255, 0);
 }
 
+
+
 #veggiebtn {
     background-color: #1a133f;
     border: 5px solid #1a7799;
@@ -124,6 +127,51 @@ color:aqua;
     text-align: center;
     color: rgb(251, 255, 0);
 }
+
+#spicebtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(242, 222, 177);
+}
+
+#professionbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(141, 137, 252);
+}
+
+#objectbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(137, 252, 141);
+}
+
+#locationbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(255, 134, 134);
+}
+
 
 #fruitbtn {
     background-color: #1a133f;
@@ -170,12 +218,3 @@ color:aqua;
     }
 }
 
-@keyframes characterglow {
-    from {
-        text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #530076, 0 0 20px #530076, 0 0 25px #530076, 0 0 30px #530076, 0 0 35px #530076;
-    }
-
-    to {
-        text-shadow: 0 0 10px #fff, 0 0 15px #b300ff, 0 0 20px #b300ff, 0 0 25px #b300ff, 0 0 30px #b300ff, 0 0 35px #b300ff, 0 0 40px #b300ff;
-    }
-}
