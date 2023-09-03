@@ -73,6 +73,14 @@ color:aqua;
 }
 
 
+
+#maintextcolor {
+    text-align: center;
+    color: rgb(255, 251, 0);
+
+}
+
+
 #militarybtn {
     background-color: #1a133f;
     border: 5px solid #1a7799;
