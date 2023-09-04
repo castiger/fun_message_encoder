@@ -92,7 +92,7 @@ break;
 
 case 'Fruit':
 var encryptionmatrix = encmatrixcontainer["Fruit"]
-nocharacters = 0;
+nocharacters = 1;
 
 break;
 
@@ -182,16 +182,24 @@ var p = 0;
 var CurrentEncString = "";
 var failedattempts = 0;
 var z;
+var complexityroll;
+var failed = 0;
+var contains = 0;
+
+
+mutateloop1:
 for (;m < characterstomutatelength;){
+  contains = 0;
  var wordarrayindex = Math.floor(random_number()*encryptionmatrix.length);
   CurrentEncString = "";
    p = 0
-  for (;p < complexity; p++){
+   complexityroll = Math.floor(random_number()*complexity + 1);
+  for (;p < complexityroll; p++){
     CurrentEncString = CurrentEncString + encryptionmatrix[wordarrayindex][Math.floor(random_number()*encryptionmatrix[wordarrayindex].length)];
   
 z = 0;
 
-for(;z < (complexity * 4); z++){
+for(;z < (complexityroll * 4); z++){
  if (Math.floor(random_number()*2) == 1 && nocharacters == 0 && theme !== 'Character'){
     CurrentEncString = CurrentEncString + encmatrixcontainer["Character"][0][Math.floor(random_number()*encmatrixcontainer["Character"][0].length)];
 
@@ -200,7 +208,16 @@ for(;z < (complexity * 4); z++){
 }
 
   }
-if (!mutatedcharacters.includes(CurrentEncString)){
+  var a = 0;
+
+for (;a < mutatedcharacters.length; a++){
+ if (mutatedcharacters[a].startsWith(CurrentEncString)){
+  contains = 1;
+  break;
+ }
+}
+
+if (contains == 0){
 failedattempts = 0;
  mutatedcharacters.push(CurrentEncString);
  m++;
@@ -208,7 +225,7 @@ failedattempts = 0;
 failedattempts++
 if (failedattempts >= 300){
 document.getElementById('phrasedisplay').innerHTML = 'Key is invalid or message is incomplete.'
- 
+  failed = 1;
   break;
 }
 };
@@ -250,7 +267,6 @@ document.getElementById('phrasedisplay').innerHTML = 'Key is invalid or message 
 };
 
 var modifiedstring = [];
-var failed = 0;
 failedattempts = 0;
 if (typeof invalidkey == 'undefined'){
 if (decrypting == 0){
