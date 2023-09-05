@@ -245,7 +245,16 @@ color:aqua;
     color: rgb(255, 255, 255);
 }
 
-
+#actionbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(205, 179, 123);
+}
 
 @keyframes glow {
     from {
