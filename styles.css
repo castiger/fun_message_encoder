@@ -256,6 +256,131 @@ color:aqua;
     color: rgb(205, 179, 123);
 }
 
+
+#invisiblebtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(207, 207, 255);
+}
+
+
+#shortbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(150, 67, 109);
+}
+
+
+#robotbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(67, 70, 150);
+}
+
+#uncertainbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(255, 141, 207);
+}
+
+
+
+
+#amazedbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(255, 0, 89);
+}
+
+
+
+
+#hmmbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(153, 255, 0);
+}
+
+
+
+
+
+#duckbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(255, 238, 0);
+}
+
+
+
+
+
+#donkeybtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(211, 87, 29);
+}
+
+
+
+
+
+#animalsoundsbtn {
+    background-color: #1a133f;
+    border: 5px solid #1a7799;
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(28, 151, 0);
+}
+
+
+
+
+
+
 @keyframes glow {
     from {
         text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #001789, 0 0 20px #001789, 0 0 25px #001789, 0 0 30px #001789, 0 0 35px #001789;
