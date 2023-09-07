@@ -1,5 +1,5 @@
  const encmatrixcontainer = {
-    "Veggie": [['Amaranth ', 'Arugula ', 'Beet ', 'Bok choy ', 'Borage greens ', 'Broccoli ', 'Brooklime ', 'Brussels sprouts ', 'Cabbage ', 'Catsear ', 'Celtuce ', 'Chaya ', 'Chickweed ', 'Chicory ', 'Chinese mallow ', 'Garland Chrysanthemum ', 'Collard greens ', 'Common purslane ', 'Corn salad ', 'Cress ', 'Dandelion ', 'Dill ', 'Endive ', 'Fat hen ', 'Fiddlehead ', 'Fluted pumpkin ', 'Golden samphire ', 'Good King Henry ', 'Grape ', 'Greater plantain ', 'Kai-lan ', 'Kale ', 'Komatsuna ', 'Kuka ', 'Lagos bologi ', 'Lambs lettuce ', 'Lambs quarters ', 'Land cress ', 'Lettuce ', 'Lizards tail ', 'Malabar spinach ', 'Mallow ', 'Melokhia ', 'Miners lettuce ', 'Mizuna greens ', 'Mustard ', 'Napa cabbage ', 'New Zealand Spinach ', 'Orache ', 'Pak choy ', 'Paracress ', 'Pea ', 'Poke ', 'Radicchio ', 'Rapini ', 'Samphire ', 'Sculpit Stridolo ', 'Sea beet ', 'Sea kale ', 'Shepherds purse ', 'Sierra Leone bologi ', 'Soko ', 'Sorrel ', 'Sour cabbage ', 'Spinach ', 'Summer purslane ', 'Swiss chard ', 'Tatsoi ', 'Turnip greens ', 'Watercress ', 'Water spinach ', 'Wheatgrass ', 'Yarrow ', 'Asparagus ', 'Cardoon ', 'Celeriac ', 'Celery ', 'Chives ', 'Elephant garlic ', 'Florence fennel ', 'Garlic ', 'Garlic chives ', 'Kohlrabi ', 'Kurrat ', 'Lemongrass ', 'Leek ', 'Lotus root ', 'Nopal ', 'Onion ', 'Pearl onion ', 'Potato onion ', 'Prussian asparagus ', 'Spring onion Scallion ', 'Shallot ', 'Tree onion[2] Welsh onion ', 'Wild leek ', 'Manchurian wild rice ', 'Ahipa ', 'Arracacha ', 'Bamboo shoot ', 'Beetroot ', 'Burdock ', 'Broadleaf arrowhead ', 'Camas ', 'Canna ', 'Carrot ', 'Cassava ', 'Chinese artichoke ', 'Daikon ', 'Earthnut pea ', 'Elephant foot yam ', 'Ensete ', 'Galangal ', 'Ginger ', 'Hamburg parsley ', 'Horseradish ', 'Jerusalem artichoke ', 'Jícama ', 'Mashua ', 'Parsnip ', 'Pignut ', 'Potato ', 'Prairie turnip ', 'Radish ', 'Rutabaga ', 'Salsify ', 'Scorzonera ', 'Skirret ', 'Swede ', 'Sweet potato ', 'Taro ', 'Ti ', 'Tigernut ', 'Turmeric ', 'Turnip ', 'Ulluco ', 'Wasabi ', 'Water caltrop ', 'Water chestnut ', 'Yacón ', 'Yam ', 'Aonori ', 'Arame ', 'Carola ', 'Dabberlocks ', 'Dulse ', 'Hijiki ', 'Kombu ', 'Laver Gim ', 'Mozuku ', 'Nori ', 'Ogonori ', 'Sea grape ', 'Sea lettuce ', 'Wakame']],
+    "Veggie": [['Amaranth ', 'Arugula ', 'Beet ', 'Bok choy ', 'Borage greens ', 'Broccoli ', 'Brooklime ', 'Brussels sprouts ', 'Cabbage ', 'Catsear ', 'Celtuce ', 'Chaya ', 'Chickweed ', 'Chicory ', 'Chinese mallow ', 'Garland Chrysanthemum ', 'Collard greens ', 'Common purslane ', 'Corn salad ', 'Cress ', 'Dandelion ', 'Dill ', 'Endive ', 'Fat hen ', 'Fiddlehead ', 'Fluted pumpkin ', 'Golden samphire ', 'Good King Henry ', 'Grape ', 'Greater plantain ', 'Kai-lan ', 'Kale ', 'Komatsuna ', 'Kuka ', 'Lagos bologi ', 'Lambs lettuce ', 'Lambs quarters ', 'Land cress ', 'Lettuce ', 'Lizards tail ', 'Malabar spinach ', 'Mallow ', 'Melokhia ', 'Miners lettuce ', 'Mizuna greens ', 'Mustard ', 'Napa cabbage ', 'New Zealand Spinach ', 'Orache ', 'Pak choy ', 'Paracress ', 'Pea ', 'Poke ', 'Radicchio ', 'Rapini ', 'Samphire ', 'Sculpit Stridolo ', 'Sea beet ', 'Sea kale ', 'Shepherds purse ', 'Sierra Leone bologi ', 'Soko ', 'Sorrel ', 'Sour cabbage ', 'Spinach ', 'Summer purslane ', 'Swiss chard ', 'Tatsoi ', 'Turnip greens ', 'Watercress ', 'Water spinach ', 'Wheatgrass ', 'Yarrow ', 'Asparagus ', 'Cardoon ', 'Celeriac ', 'Celery ', 'Chives ', 'Elephant garlic ', 'Florence fennel ', 'Garlic ', 'Garlic chives ', 'Kohlrabi ', 'Kurrat ', 'Lemongrass ', 'Leek ', 'Lotus root ', 'Nopal ', 'Onion ', 'Pearl onion ', 'Potato onion ', 'Prussian asparagus ', 'Spring onion Scallion ', 'Shallot ', 'Tree onion ', 'Welsh onion ', 'Wild leek ', 'Manchurian wild rice ', 'Ahipa ', 'Arracacha ', 'Bamboo shoot ', 'Beetroot ', 'Burdock ', 'Broadleaf arrowhead ', 'Camas ', 'Canna ', 'Carrot ', 'Cassava ', 'Chinese artichoke ', 'Daikon ', 'Earthnut pea ', 'Elephant foot yam ', 'Ensete ', 'Galangal ', 'Ginger ', 'Hamburg parsley ', 'Horseradish ', 'Jerusalem artichoke ', 'Jícama ', 'Mashua ', 'Parsnip ', 'Pignut ', 'Potato ', 'Prairie turnip ', 'Radish ', 'Rutabaga ', 'Salsify ', 'Scorzonera ', 'Skirret ', 'Swede ', 'Sweet potato ', 'Taro ', 'Ti ', 'Tigernut ', 'Turmeric ', 'Turnip ', 'Ulluco ', 'Wasabi ', 'Water caltrop ', 'Water chestnut ', 'Yacón ', 'Yam ', 'Aonori ', 'Arame ', 'Carola ', 'Dabberlocks ', 'Dulse ', 'Hijiki ', 'Kombu ', 'Laver Gim ', 'Mozuku ', 'Nori ', 'Ogonori ', 'Sea grape ', 'Sea lettuce ', 'Wakame']],
     "Fruit": [['Apple ', 'Apricot ', 'Avocado ', 'Banana ', 'Bilberry ', 'Blackberry ', 'Blackcurrant ', 'Blueberry ', 'Boysenberry ', 'Currant ', 'Cherry ', 'Cherimoya ', 'Chico fruit ', 'Cloudberry ', 'Coconut ', 'Cranberry ', 'Cucumber ', 'Custard apple ', 'Damson ', 'Date ', 'Dragonfruit ', 'Durian ', 'Elderberry ', 'Feijoa ', 'Fig ', 'Goji berry ', 'Gooseberry ', 'Grape ', 'Raisin ', 'Grapefruit ', 'Guava ', 'Honeyberry ', 'Huckleberry ', 'Jabuticaba ', 'Jackfruit ', 'Jambul ', 'Jujube ', 'Juniper berry ', 'Kiwano ', 'Kiwifruit ', 'Kumquat ', 'Lemon ', 'Lime ', 'Loquat ', 'Longan ', 'Lychee ', 'Mango ', 'Mangosteen ', 'Marionberry ', 'Melon ', 'Cantaloupe ', 'Honeydew ', 'Watermelon ', 'Miracle fruit ', 'Mulberry ', 'Nectarine ', 'Nance ', 'Olive ', 'Orange ', 'Blood orange ', 'Clementine ', 'Mandarine ', 'Tangerine ', 'Papaya ', 'Passionfruit ', 'Peach ', 'Pear ', 'Persimmon ', 'Physalis ', 'Plantain ', 'Plum ', 'Prune ', 'Pineapple ', 'Plumcot ', 'Pomegranate ', 'Pomelo ', 'Purple mangosteen ', 'Quince ', 'Raspberry ', 'Salmonberry ', 'Rambutan ', 'Redcurrant ', 'Salal berry ', 'Salak ', 'Satsuma ', 'Soursop ', 'Star fruit ', 'Solanum quitoense ', 'Strawberry ', 'Tamarillo ', 'Tamarind ', 'Ugli fruit ', 'Yuzu ']],
     "Tree": [['persian silk ','camphor ','dragon ','chinese privet ','austrailian pine ','empress tree ','paper mulberry ','tree of heaven ','acacia ', 'alder ', 'arborvitae ', 'ash ', 'aspen ', 'avocado ', 'balsam ', 'bamboo ', 'baobab ', 'bay ', 'beech ', 'birch ', 'blackthorn ', 'bluegum ', 'buckeye ', 'butternut ', 'cedar ', 'cherry ', 'chestnut ', 'chinkapin ', 'cork ', 'cottonwood ', 'cucumber ', 'cypress ', 'dogwood ', 'elder ', 'elm ', 'fir ', 'guava ', 'hackberry ', 'hawthorn ', 'hemlock ', 'hickory ', 'holly ', 'hophornbean ', 'hornbean ', 'jacaranda ', 'juniper ', 'larch ', 'laurel ', 'lemon ', 'lime ', 'locust ', 'madrone ', 'magnolia ', 'maple ', 'moosewood ', 'mulberry ', 'myrtle ', 'nutmeg ', 'oak ', 'orange ', 'palm ', 'pear ', 'persimmon ', 'pine ', 'pineapple ', 'piñon ', 'pomegranate ', 'poplar ', 'redwood ', 'sassafras ', 'sequoia ', 'shadbush ', 'spruce ', 'sumac ', 'sycamore ', 'tamarind ', 'torreya ', 'tupelo ', 'walnut ', 'willow ', 'yew ']],
     "Character": [['ㄱ','ㄲ','ㄴ','ㄷ','ㄸ','ㄹ','ㅁ','ㅂ','ㅃ','ㅅ','ㅆ','ㅇ','ㅈ','ㅉ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ','ㅏ','ㅐ','ㅑ','ㅒ','ㅓ','ㅔ','ㅕ','ㅖ','ㅗ','ㅘ','ㅙ','ㅚ','ㅛ','ㅜ','ㅝ','ㅞ','ㅟ','ㅠ','ㅡ','ㅢ','ㅣ','ぁ','あ','ぃ','い','ぅ','う','ぇ','え','ぉ','お','か','が','き','ぎ','く','ぐ','け','げ','こ','ご','さ','ざ','し','じ','す','ず','せ','ぜ','そ','ぞ','た','だ','ち','ぢ','っ','つ','づ','て','で','と','ど','な','に','ぬ','ね','の','は','ば','ぱ','ひ','び','ぴ','ふ','ぶ','ぷ','へ','べ','ぺ','ほ','ぼ','ぽ','ま','み','む','め','も','ゃ','や','ゅ','ゆ','ょ','よ','ら','り','る','れ','ろ','ゎ','わ','ゐ','ゑ','を','ん','ゔ','ゕ','ゖ',' ','゚','゛','゜','ゝ','ゞ','ゟ','゠','ァ','ア','ィ','イ','ゥ','ウ','ェ','エ','ォ','オ','カ','ガ','キ','ギ','ク','グ','ケ','ゲ','コ','ゴ','サ','ザ','シ','ジ','ス','ズ','セ','ゼ','ソ','ゾ','タ','ダ','チ','ヂ','ッ','ツ','ヅ','テ','デ','ト','ド','ナ','ニ','ヌ','ネ','ノ','ハ','バ','パ','ヒ','ビ','ピ','フ','ブ','プ','ヘ','ベ','ペ','ホ','ボ','ポ','マ','ミ','ム','メ','モ','ャ','ヤ','ュ','ユ','ョ','ヨ','ラ','リ','ル','レ','ロ','ヮ','ワ','ヰ','ヱ','ヲ','ン','ヴ','ヵ','ヶ','ヷ','ヸ','ヹ','ヺ','・','ー','ヽ','ヾ','ヿ','㍐','㍿','的', '一', '是', '不', '了', '人', '我', '在', '有', '他', '这', '为', '之', '大', '来', '以', '个', '中', '上', '们', '到', '说', '国', '和', '地', '也', '子', '时', '道', '出', '而', '要', '于', '就', '下', '得', '可', '你', '年', '生', '自', '会', '那', '后', '能', '对', '着', '事', '其', '里', '所', '去', '行', '过', '家', '十', '用', '发', '天', '如', '然', '作', '方', '成', '者', '多', '日', '都', '三', '小', '军', '二', '无', '同', '么', '经', '法', '当', '起', '与', '好', '看', '学', '进', '种', '将', '还', '分', '此', '心', '前', '面', '又', '定', '见', '只', '主', '没', '公', '从', '¿', 'ü', 'ú', 'ó', 'ñ', 'í', 'é', 'á', '☼', '◙', '♂', '♀', '♪', '♫', '‼', '§', '↨', '↑', '↓', '→', '←', '↔', '▼', '▲', '¾', '½', '¼', '¿', '»', '«', '•', '♠', '♣', '♦', '♥', '☻', '☺', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '=', '-', '+', '_', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'Y', 'Z', '!', '@', '#', '$', '%', '^', '&', '*', '+', '-', '=', '|', '/', '(', ')', '}', '{', '<', '>', '~', '♦', '•', '◘', '♣', '○', '♠', '♥', '☼', '*', '→', 'b', '÷', '~', '╖', '±', 'ƒ', '↔', '╚', 'T', 'µ', 'Ö', '¬', '≈', '<']],
@@ -26,30 +26,30 @@
   }
 
   const encmatrixcontainerdata = {
-    "Veggie": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "Fruit": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "Tree": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
+    "Veggie": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Fruit": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Tree": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
     "Character": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:0, DeepCharacterMode:"None", RandomCharSize:0},
     "Deep Character": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:1, BaseDeepCharacterDiversity:0, DeepCharacterMode:"None", RandomCharSize:0},
-    "Invisible Character": {HasCharacters:0, BaseCharacterDiversity:5, BaseComplexity:3, BaseDeepCharacterDiversity:3, DeepCharacterMode:"All", RandomCharSize:0},
-    "Military": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "Animal": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "Location": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "Object": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "Spice": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "Profession": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "TV Movie": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "Rock": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "Elements": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "Action": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
+    "Invisible Character": {HasCharacters:0, BaseCharacterDiversity:5, BaseComplexity:3, BaseDeepCharacterDiversity:3, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Military": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Animal": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Location": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Object": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Spice": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Profession": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "TV Movie": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Rock": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Elements": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Action": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
     "Robot" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Invisible", RandomCharSize:1},
-    "Super" :  {HasCharacters:1, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"All", RandomCharSize:1},
-    "Uncertain" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:1},
-    "Amazed" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"All", RandomCharSize:1},
-    "Hmm" :{HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:1},
-    "Duck" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:1},
-    "Donkey" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:1},
-    "?????" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:1},
+    "Super" :  {HasCharacters:1, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "Uncertain" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "Amazed" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "Hmm" :{HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "Duck" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "Donkey" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "?????" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
  
   }
 
@@ -196,7 +196,7 @@ function SeedEncrypt(decrypting) {
     }
   };
 
-  var characterstomutate = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '=', '-', '+', '_', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'Y', 'Z', '!', '#', '$', '%', '÷', '<', '>', '(', ')', '{', '}', '"', ' ', '.', ',', '?',';',':',"'",'"']
+  var characterstomutate = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '=', '-', '+', '_', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'Y', 'Z', '!', '#', '$', '%', '÷', ' ', '.', ',', '?']
   var characterstomutatelength = characterstomutate.length;
   var mutatedcharacters = [];
   var mutatedcharactersmatrix = [];
@@ -296,6 +296,7 @@ if (theme !== "Invisible Character" && theme !== "Deep Character" && theme !== "
             case "All":
           if (sideroll2 == 0){
           var chosencharactertype = "Deep Character";
+
           } else {
           var chosencharactertype = "Invisible Character";
 
@@ -307,10 +308,13 @@ if (theme !== "Invisible Character" && theme !== "Deep Character" && theme !== "
               break;
           }
 
+          if (deepcharmode == "All" || deepcharmode == "Deep"){
+            
+var distancefromends = 1;      
+var insertindex = Math.floor(distancefromends + (random_number()*(CurrentEncString.length - distancefromends)));
+CurrentEncString = CurrentEncString.slice(0,insertindex) + encmatrixcontainer[chosencharactertype][0][Math.floor(random_number()*encmatrixcontainer[chosencharactertype][0].length)] + CurrentEncString.slice(insertindex);
 
-
-
-          if (sideroll == 0 ){
+          } else if (sideroll == 0 ){
           CurrentEncString = CurrentEncString + encmatrixcontainer[chosencharactertype][0][Math.floor(random_number() * encmatrixcontainer[chosencharactertype][0].length)];
 
           } else {
@@ -329,9 +333,9 @@ if (theme !== "Invisible Character" && theme !== "Deep Character" && theme !== "
 
 
       z = 0;
-
+if (hascharacters == 1){
       for (; z < (complexity * 2); z++) {
-        if (hascharacters == 1 && Math.floor(random_number() * 2) == 1) {
+        if (Math.floor(random_number() * 2) == 1) {
           var sideroll = Math.floor(random_number() * 2);
           if (sideroll == 0 ){
           CurrentEncString = CurrentEncString + encmatrixcontainer["Character"][0][Math.floor(random_number() * encmatrixcontainer["Character"][0].length)];
@@ -345,6 +349,8 @@ if (theme !== "Invisible Character" && theme !== "Deep Character" && theme !== "
 
       }
 
+
+}
       
     }
     var a1 = 0;
@@ -402,6 +408,8 @@ if (theme !== "Invisible Character" && theme !== "Deep Character" && theme !== "
   if (decrypting !== 0) {
     var d = 0;
     failedattempts = 0;
+    string = string.slice(3, string.length -3)
+    stringlength = stringlength - 6;
     loop3:
     for (; d < stringlength; ) {
       var y = 0;
@@ -459,7 +467,7 @@ if (theme !== "Invisible Character" && theme !== "Deep Character" && theme !== "
         modifiedstring.push(mutatedcharactersmatrix[charactertoreplacesubindex][charactertoreplaceindex]);
 
       };
-      modifiedstring = modifiedstring.join("");
+      modifiedstring = "[>>" + modifiedstring.join("") + "<<]";
     } else {
       
       var d = 0;
@@ -474,7 +482,7 @@ if (theme !== "Invisible Character" && theme !== "Deep Character" && theme !== "
 
         loop2:
         for (; t < mutatedcharactersmatrix[y].length; t++) {
-          if (string.startsWith(mutatedcharactersmatrix[y][t])) {
+        if (string.startsWith(mutatedcharactersmatrix[y][t])) {
             failedattempts = 0;
             var wordlength = mutatedcharactersmatrix[y][t].length;
             d += wordlength;
