@@ -20,7 +20,7 @@
     "Amazed"  : [["Whoa ","Wow ","Whoa ho ho ","Whoa ho ","Wowie ","Wowie wow wow ","No way "]],
     "Hmm" : [["Hmm ","Mhmm ","Mmhmm ","Hmmmm "]],
     "Duck" : [["Quack ","quack ","qUack ","Quack "]],
-    "Donkey" : [["Hee honk ","hee honk ","hee Honk ","hEe hOnK ","heE hoNk"]],
+    "Donkey" : [["Hee honk ","hee honk ","hee Honk ","hEe hOnK ","heE hoNk "]],
     "?????" : [["Meow ","Moo ","Caw ","Awoooo ","Woof ","Chirp ","Roarrr ","Grrrr ","Ooo ooo "]]
 
   }
@@ -42,10 +42,10 @@
     "Rock": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
     "Elements": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
     "Action": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:0},
-    "Robot" : {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Invisible", RandomCharSize:0},
+    "Robot" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Invisible", RandomCharSize:1},
     "Super" :  {HasCharacters:1, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"All", RandomCharSize:1},
     "Uncertain" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:1},
-    "Amazed" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:1},
+    "Amazed" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"All", RandomCharSize:1},
     "Hmm" :{HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:1},
     "Duck" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:1},
     "Donkey" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:1},
