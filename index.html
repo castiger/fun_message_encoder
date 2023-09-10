@@ -15,7 +15,7 @@
           <div id="chosentheme" name="Character">Character</h1>
 
       </div>
-          <div id="phrasedisplay" style="height:150px;width:400px;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
+          <div id="phrasedisplay" style="height:250px;width:400px;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
     </div>
 <label for="text" id = maintextcolor>Encode/Decode Key</label>
 <input type="text" id="keyseed" name="keyseed">
@@ -45,22 +45,191 @@
 
 </body2>
 
-<div>
-<label for="complexity" id=secondtextcolor>Note: If encoded message has a space at the end, it must be included to decode.</label>
-</div>
-
 
 <label for="complexity" id = maintextcolor>Encode/Decode Complexity</label>
 <input type="number" id="complexity" name="complexity" min="1" max="10" value = 1 class="edit-items" >
 <label for="complexity" id = maintextcolor>(If Decoding must match Encoded message Complexity)</label>
 
 
+<style type="text/css">
+     option.purple {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #6900cc;
+     }
+
+     option.silver {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #bbccf0;
+     }
+
+     option.cyan {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #00e5ff;
+     }
+
+     option.magenta {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #ca70dc;
+     }
+
+     option.yellow {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #ffdd00;
+     }
+
+     option.orange {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #ff7b00;
+     }
+
+     option.lime {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #c8ff00;
+     }
+
+     option.tan {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #cac192;
+     }
+
+     option.blue {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #0051ff;
+     }
+
+     option.green {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #1aff00;
+     }
+
+     option.red {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #ff0000;
+     }
+
+     option.gold {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #ffb300;
+     }
+
+     option.grey {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: rgb(176, 176, 176);
+     }
+
+     option.teal {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #02757b;
+     }
+
+     option.peach {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #fdffbb;
+     }
+
+     option.pink {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #ffb5df;
+     }
+
+     option.scarlet {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #ff0059;
+     }
+
+     option.brown {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #883e25;
+     }
+
+     option.darkgreen {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #118604;
+     }
+
+     option.white {
+          background-color: #000000;
+          font-weight: bold;
+          font-size: 12px;
+          color: #ffffff;
+     }
+</style>
+
+
 <div>
+<label for="encode-types">Current Encode/Decode type:</label>
+<select name="Encode Types" id="encode-types" onchange="SetTheme(this.value, this.options[this.selectedIndex].getAttribute('class'))">
+<option class="purple" value="Character">Character</option>
+<option class="silver" value="Invisible Character">Invisible</option>
+<option class="cyan" value="Military">Military</option>
+<option class="magenta" value="Deep Character">Short</option>
+<option class="yellow" value="Veggie">Veggie</option>
+<option class="orange" value="Fruit">Fruit</option>
+<option class="lime" value="Tree">Tree</option>
+<option class="purple" value="Animal">Animal</option>
+<option class="tan" value="Spice">Spice</option>
+<option class="blue" value="Profession">Profession</option>
+<option class="green" value="Object">Object</option>
+<option class="red" value="Location">Location</option>
+<option class="gold" value="TV Movie">TV</option>
+<option class="grey" value="Rock">Rock</option>
+<option class="teal" value="Elements">Elements</option>
+<option class="peach" value="Action">Action</option>
+<option class="blue" value="Robot">Robot</option>
+<option class="pink" value="Uncertain">Uncertainty</option>
+<option class="scarlet" value="Amazed">Amazed</option>
+<option class="lime" value="Hmm">Hmm</option>
+<option class="yellow" value="Duck">Duck</option>
+<option class="brown" value="Donkey">Donkey</option>
+<option class="darkgreen" value="?????">?????</option>
+<option class="white" value="Super">Super</option>
+
+</select>
+
+<!--
 <h1 id = maintextcolor>Encode/Decode Types</h1>
 <button id="characterbtn" onclick="SetTheme('Character','purple')">Character</button>
-<button id ="invisiblebtn" onclick="SetTheme('Invisible Character','silver')">Invisible</button>
+<button id="invisiblebtn" onclick="SetTheme('Invisible Character','silver')">Invisible</button>
 <button id="militarybtn" onclick="SetTheme('Military','cyan')">Military</button>
-<button id ="shortbtn" onclick="SetTheme('Deep Character','magenta')">Short</button>
+<button id="shortbtn" onclick="SetTheme('Deep Character','magenta')">Short</button>
 <button id="veggiebtn" onclick="SetTheme('Veggie','yellow')">Veggie</button>
 <button id="fruitbtn" onclick="SetTheme('Fruit','orange')">Fruit</button>
 <button id="treebtn" onclick="SetTheme('Tree','lime')">Tree</button>
@@ -81,9 +250,29 @@
 <button id="donkeybtn" onclick="SetTheme('Donkey','brown')">Donkey</button>
 <button id="animalsoundsbtn" onclick="SetTheme('?????','darkgreen')">?????</button>
 <button id="superbtn" onclick="SetTheme('Super','white')">Super</button>
-
+-->
 
 </div>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+     <style>
+          .box {
+               width: 400px;
+               height: 200px;
+          }
+     </style>
+</head>
+
+<body3>
+     <b>
+     </b><br />
+     <div class="box"></div>
+</body3>
+
+</html>
 
 
 

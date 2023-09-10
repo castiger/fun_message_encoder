@@ -19,37 +19,37 @@
     "Uncertain" : [["Uh ","Um ","Oh ","idk ","maybe ","possibly ","uncertain ", "not certain"]],
     "Amazed"  : [["Whoa ","Wow ","Whoa ho ho ","Whoa ho ","Wowie ","Wowie wow wow ","No way "]],
     "Hmm" : [["Hmm ","Mhmm ","Mmhmm ","Hmmmm "]],
-    "Duck" : [["Quack ","quack ","qUack ","Quack "]],
-    "Donkey" : [["Hee honk ","hee honk ","hee Honk ","hEe hOnK ","heE hoNk "]],
-    "?????" : [["Meow ","Moo ","Caw ","Awoooo ","Woof ","Chirp ","Roarrr ","Grrrr ","Ooo ooo "]]
+    "Duck" : [["Quack "]],
+    "Donkey" : [["Hee honk "]],
+    "?????" : [["Meow ","Moo ","Caw ","Awoooo ","Woof ","Chirp ","Roarrr ","Grrrr ","Ooo ooo ", "Coo coo "]]
 
   }
 
   const encmatrixcontainerdata = {
-    "Veggie": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Fruit": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Tree": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Veggie": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Fruit": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Tree": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
     "Character": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:0, DeepCharacterMode:"None", RandomCharSize:0},
-    "Deep Character": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:1, BaseDeepCharacterDiversity:0, DeepCharacterMode:"None", RandomCharSize:0},
+    "Deep Character": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:1, BaseDeepCharacterDiversity:0, DeepCharacterMode:"None", RandomCharSize:0},
     "Invisible Character": {HasCharacters:0, BaseCharacterDiversity:5, BaseComplexity:3, BaseDeepCharacterDiversity:3, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Military": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Animal": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Location": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Object": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Spice": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Profession": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "TV Movie": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Rock": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Elements": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Action": {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
-    "Robot" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Invisible", RandomCharSize:1},
-    "Super" :  {HasCharacters:1, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Deep", RandomCharSize:1},
-    "Uncertain" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
-    "Amazed" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Deep", RandomCharSize:1},
-    "Hmm" :{HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
-    "Duck" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
-    "Donkey" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
-    "?????" : {HasCharacters:0, BaseCharacterDiversity:0, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "Military": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Animal": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Location": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Object": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Spice": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Profession": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "TV Movie": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Rock": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Elements": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Action": {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:0},
+    "Robot" : {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Invisible", RandomCharSize:1},
+    "Super" :  {HasCharacters:1, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "Uncertain" : {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "Amazed" : {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:2, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "Hmm" :{HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "Duck" : {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
+    "Donkey" : {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"All", RandomCharSize:1},
+    "?????" : {HasCharacters:0, BaseCharacterDiversity:3, BaseComplexity:0, BaseDeepCharacterDiversity:1, DeepCharacterMode:"Deep", RandomCharSize:1},
  
   }
 
@@ -537,6 +537,9 @@ if (hascharacters == 1){
 function SetTheme(theme, themecolor) {
   document.getElementById('chosentheme').setAttribute("name", theme)
   document.getElementById('chosentheme').innerHTML = theme;
+  //var themecolor = document.getElementById('chosentheme').getAttribute("class");
+  document.getElementById('encode-types').style.color = themecolor;
+  
   document.getElementById('chosentheme').style.color = themecolor;
 
 }

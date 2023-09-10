@@ -73,6 +73,11 @@ color:aqua;
 }
 
 
+#encode-types {
+    color: rgb(255, 251, 0);
+
+
+}
 
 #maintextcolor {
     text-align: center;
@@ -378,6 +383,12 @@ color:aqua;
 
 
 
+.dropdown-content a {
+    display: block;
+    color: #000000;
+    padding: 5px;
+    text-decoration: none;
+}
 
 
 
