@@ -197,7 +197,7 @@
 <div>
 <label for="encode-types">Current Encode/Decode type:</label>
 <select name="Encode Types" id="encode-types" onchange="SetTheme(this.value, this.options[this.selectedIndex].getAttribute('class'))">
-<option class="purple" value="Character">Character</option>
+<option class="purple" value="Character" selected>Character</option>
 <option class="silver" value="Invisible Character">Invisible</option>
 <option class="cyan" value="Military">Military</option>
 <option class="magenta" value="Deep Character">Short</option>
@@ -252,11 +252,29 @@
 <button id="superbtn" onclick="SetTheme('Super','white')">Super</button>
 -->
 
+
+
+
+
+
+<div><body4>
+     <style>
+          textarea {
+               resize: none;
+          }
+     </style>
+     <input type="text" id="customencode" name="customencode" placeholder="Seperate entries with commas."></textarea>
+     <label for="customencode" id=secondtextcolor>Custom Encode/Decode Words and Characters (Overrides selected type if used)</label>
+
+</body4>
 </div>
+
+
+
+
 
 <!DOCTYPE html>
 <html>
-
 <head>
      <style>
           .box {
