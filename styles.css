@@ -2,7 +2,7 @@ body {
 text-align: center;
 padding: 0;
 margin: 0;
-background: linear-gradient(to bottom, #411231, #15056e);
+background: linear-gradient(to bottom, #330e27, #15056e8e);
 }
 
 #encodertitle {
@@ -12,13 +12,32 @@ color:aqua;
 }
 
 
+#complexity {
+    background-color: #000000;
+    color: rgb(128, 0, 255);
+
+}
+
 #chosentheme {
-    color: rgb(55, 255, 0);
+    color: rgb(119, 0, 255);
     font-size: 20px;
 }
 
+#textboxinput {
+    background-color: #000000;
+    color:rgb(55, 255, 0);
+}
+
+#keyseed {
+    background-color: #000000;
+    color: rgb(246, 255, 0);
+}
+
+
 #customencode {
     width: 400px;
+    background-color: #000000;
+    color: rgb(2, 238, 255);
 
 }
 
