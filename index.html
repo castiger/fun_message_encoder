@@ -12,7 +12,7 @@
       <h1 id = "encodertitle">Fun Encoder Decoder - Auto Copies On Button Clicks</h1>
       <div>
           <label id = maintextcolor >Current Encode/Decode Mode : </label>
-          <div id="chosentheme" name="Character">Character</h1>
+          <div id="chosentheme" name="Encrypted">Encrypted</h1>
 
       </div>
           <div id="phrasedisplay" style="height:250px;width:400px;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
@@ -150,7 +150,7 @@
           color: #02757b;
      }
 
-     option.peach {
+     option.beige {
           background-color: #000000;
           font-weight: bold;
           font-size: 12px;
@@ -178,7 +178,7 @@
           color: #883e25;
      }
 
-     option.darkgreen {
+     option.chartreuse {
           background-color: #000000;
           font-weight: bold;
           font-size: 12px;
@@ -197,9 +197,10 @@
 <div>
 <label for="encode-types">Current Encode/Decode type:</label>
 <select name="Encode Types" id="encode-types" onchange="SetTheme(this.value, this.options[this.selectedIndex].getAttribute('class'))">
-<option class="purple" value="Character" selected>Character</option>
+<option class="purple" value="Encrypted" selected>Encrypted</option>
 <option class="silver" value="Invisible Character">Invisible</option>
 <option class="cyan" value="Military">Military</option>
+<option class="green" value="Matrix">The Matrix</option>
 <option class="magenta" value="Deep Character">Short</option>
 <option class="yellow" value="Veggie">Veggie</option>
 <option class="orange" value="Fruit">Fruit</option>
@@ -212,15 +213,22 @@
 <option class="gold" value="TV Movie">TV</option>
 <option class="grey" value="Rock">Rock</option>
 <option class="teal" value="Elements">Elements</option>
-<option class="peach" value="Action">Action</option>
+<option class="beige" value="Action">Action</option>
 <option class="blue" value="Robot">Robot</option>
 <option class="pink" value="Uncertain">Uncertainty</option>
 <option class="scarlet" value="Amazed">Amazed</option>
 <option class="lime" value="Hmm">Hmm</option>
 <option class="yellow" value="Duck">Duck</option>
 <option class="brown" value="Donkey">Donkey</option>
-<option class="darkgreen" value="?????">?????</option>
+<option class="chartreuse" value="Nature Sounds">Nature Sounds</option>
+<option class="cyan" value="Destiny">Destiny</option>
+<option class="gold" value="Game Characters">Game Characters</option>
 <option class="white" value="Super">Super</option>
+<option class="purple" value="Cat">Cat</option>
+<option class="orange" value="Dog">Dog</option>
+<option class="blue" value="Bird">Bird</option>
+<option class="green" value="Frog">Frog</option>
+<option class="white" value="Cow">Cow</option>
 
 </select>
 
