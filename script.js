@@ -31,11 +31,55 @@ const encmatrixcontainer = {
   "Cow" : [["moo ","mooo ","moooo ","mooooo "]],
   "Matrix" : [["0","1","2","3","4","5","6","7","8","9"]],
   "British" : [["Lad ","Bloke ","Bonkers ","Daft ","Dodgy ","Quid ","Trollied ","Knackered ","Throwing a wobbly ","Cuppa ","Bloody ","Chuffed ","Skint ","Fiver ","Tenner ","Bog ","Chav ","Mug ","Git ","Cheeky ","Slag off ","Sod ","Grafting ","Muppet ","Walk In Formation ","God save the queen ","Prat ","Nosh ","Buzzin ","Pied off ","Bev ","Blimey ","Gutted ","Kerfuffle ","Innit ","Cracking ","Minging ","Proper ","Nick ","Faffling around ","Pikey "]],
-
+  "Mario" : [["Mario ", "Yoshi ","Princess Peach ","Koopa ","Bowser ","Mushroom ","Fire Flower","Cape "]],
+  "Color" : [["Red ","Green ","Blue ","Yellow ","Orange ","Red ","Rainbow ","White ","Black ","Pink ","Purple ","Magenta ","Cyan ","Teal "]],
+  "Zelda" : [["Link ","Zelda ","Ganondorf ","Master Sword ","Ocarina ","Rupee ","Boomerang ","Bow ","Arrow ","Slingshot ","Sheik ","Zora ","Fairy Fountain ","Potion ","Poe ","Deku "]],
+  "Final Fantasy": [["Cloud ","Tifa ","Aerith ","Barret ","Sid ","Red 9 ","Cait Sith ","Yuffi ","Vincent ","Blue Materia ","Greem Materia ","Red Materia ","Yellow Materia ","Purple Materia ","Sephiroth ","Shiva ","Ifrit ","Ragnarok ","Kefka ","Cecil ","Paladin ","White Mage ","Red Mage ","Black Mage ","Rosa ","Yang ","Rydia ","Tellah " ,"Edward ","Palom ","Parom ","Squall ","Reno ","Shinra  ","Terra ","Locke ","Edgar ","Relm ","Umaro ","Gogo ","Shadow ","Cyan ","Setzer ","Gau ","Moogle ","Strago ","Sabin ","Esper ","Kain "]],
+  "Metroid" : [["Samus ","Morph Ball ","Charge Cannon ","Space Pirates ","Metroid ","Mother Brain ","Screw Attacck ","Super Jump ","Jump Boots "]]
 }
 
 const encmatrixcontainerdata = {
-  "Matrix": {
+  "Metroid": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity:0,
+    BaseDeepCharacterDiversity: 1,    
+    DeepCharacterMode: "All",
+    RandomCharSize: 0
+  },
+  "Final Fantasy": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity:0,
+    BaseDeepCharacterDiversity: 1,    
+    DeepCharacterMode: "All",
+    RandomCharSize: 0
+  },
+  "Color": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity:0,
+    BaseDeepCharacterDiversity: 1,    
+    DeepCharacterMode: "All",
+    RandomCharSize: 0
+  },
+  "Mario": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity:0,
+    BaseDeepCharacterDiversity: 1,    
+    DeepCharacterMode: "All",
+    RandomCharSize: 0
+  },
+  "British": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity:0,
+    BaseDeepCharacterDiversity: 1,    
+    DeepCharacterMode: "Invisible",
+    RandomCharSize: 0
+  },
+  "Matrix": {     
     HasCharacters: 0,
     BaseCharacterDiversity: 5,
     BaseComplexity: 2,
