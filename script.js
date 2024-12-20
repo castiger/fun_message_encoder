@@ -14,7 +14,7 @@ const encmatrixcontainer = {
   "TV Movie": [['Star Wars ', 'Indiana Jones ', 'Evil Dead ', 'Dawn of the Dead ', 'Smallville ', 'Continuum ', 'Superman ', 'Teen Titans ', 'Captain America ', 'Avengers ', 'Ironman ', 'Doctor Strange ', 'Falling Skies ', 'Iron Fist ', 'Green Arrow ', 'Brainiac ', 'Thor ', 'Captain America ', 'Agents of Shield ', 'Andromeda ', 'Farscape ', 'Stargate SG-1 ', 'Stargate Atlantis ', 'Stargate Universe ', 'Codys ', 'Nightmare Before Christmas ', 'Polar Express ', 'Guardians of the Galaxy ', 'Burn Notice ', 'White Collar ', 'Chuck ', 'Revolution ', 'Into the Badlands ', 'Beastmaster ', 'The Legend of the Seeker ', 'The Magicians ', 'Star Trek ', 'Crime Story ', 'Have Gun Will Travel ', 'Bonanza ', 'Black Lightning ', 'The Cape ', 'The Incredible Hulk ', 'Incredibles ', 'Toy Story ', 'Married With Children ', 'Andy Griffith ', 'Gomer Pyle ', 'Hogans Heroes ', 'Traveler ', 'The Matrix ', 'The Last Samurai ', 'Xiaolin Showdown ', 'Yu-Gi-Oh ', 'Pokemon ', 'Survivor ', 'Death Race ', 'One Piece ', 'Digimon ', 'The Walking Dead ', 'Jericho ', 'Dark Matter ', 'Kill Joys ', 'Barney ', 'Peter Pan ', 'Pirates of the Caribbean ', 'Ancient Origins ', 'Supernatural ', 'Equilibrium ', 'Power Puff Girls ', 'Sabrina ', 'Fox News ', 'PBS ', 'WB11 ', 'Merlin ', 'The Shanara Chronicles ', 'Shadowhunters ', 'Legends of Tomorrow ', 'Sanctuary ', 'Warehouse 13 ', 'Apocalypse Now ', 'Tropic Thunder ', 'Last Man Standing ', 'Who Wants to be a Millionaire ', 'The Price is Right ', 'Geraldo ', 'Face the Nation ', 'Judge Judy ', 'Judge Joe Brown ', 'Matlocke ', 'Angel ', 'Dark Angel ', 'Buffy the Vampire Slayer ']],
   "Rock": [['Andesite ', 'Anorthosite ', 'Aplite ', 'Basalt ', 'Adakite ', 'Hawaiite ', 'Basanite ', 'Boninite ', 'Carbonatite ', 'Charnockite ', 'Enderbite ', 'Dacite ', 'Diabaseordolerite ', 'Diorite ', 'Dunite ', 'Essexite ', 'Foidolite ', 'Gabbro ', 'Granite ', 'Granodiorite ', 'Granophyre ', 'Harzburgite ', 'Hornblendite ', 'Hyaloclastite ', 'Icelandite ', 'Ignimbrite ', 'Ijolite ', 'Kimberlite ', 'Komatiite ', 'Lamproite ', 'Lamprophyre ', 'Latite ', 'Lherzolite ', 'Monzogranite ', 'Monzonite ', 'Nephelinesyenite ', 'Nephelinite ', 'Norite ', 'Obsidian ', 'Pegmatite ', 'Peridotite ', 'Phonolite ', 'Picrite ', 'Porphyry ', 'Pumice ', 'Pyroxenite ', 'Quartzdiorite ', 'Quartzmonzonite ', 'Rhyodacite ', 'Rhyolite ', 'Comendite ', 'Pantellerite ', 'Scoria ', 'Sovite ', 'Syenite ', 'Tachylyte ', 'Tephrite ', 'Tonalite ', 'Trachyandesite ', 'Benmoreite ', 'Basaltictrachyandesite ', 'Mugearite ', 'Shoshonite ', 'Trachyte ', 'Troctolite ', 'Trondhjemite ', 'Tuff ', 'Websterite ', 'Wehrlite ', 'Argillite ', 'Arkose ', 'Bandedironformation ', 'Breccia ', 'Chalk ', 'Chert ', 'Claystone ', 'Coal ', 'Conglomerate ', 'Diamictite ', 'Coquina ', 'Diatomite ', 'Dolomiteordolostone ', 'Evaporite ', 'Flint ', 'Greywacke ', 'Gritstone ', 'Itacolumite ', 'Jaspillite ', 'Laterite ', 'Lignite ', 'Limestone ', 'Marl ', 'Mudstone ', 'Oilshale ', 'Oolite ', 'RockGypsum ', 'Sandstone ', 'Shale ', 'Siltstone ', 'Travertine ', 'Turbidite ', 'Wackestone ', 'nthracite ', 'Amphibolite ', 'Blueschist ', 'Cataclasite ', 'Eclogite ', 'Gneiss ', 'Gossan ', 'Granulite ', 'Greenschist ', 'Greenstone ', 'Hornfels ', 'Marble ', 'Migmatite ', 'Mylonite ', 'Metapelite ', 'Phyllite ', 'Metapsammite ', 'Pseudotachylite ', 'Quartzite ', 'Schist ', 'Serpentinite ', 'Skarn ', 'Slate ', 'Suevite ', 'Talccarbonate ', 'Soapstone ', 'Whiteschist ', 'Adamellite ', 'Appinite ', 'Aphanite ', 'Borolanite ', 'BlueGranite ', 'Epidosite ', 'Felsite ', 'Flint ', 'Ganister ', 'Ijolite ', 'Jadeitite ', 'Jasperoid ', 'Kenyte ', 'Vogesite ', 'Larvikite ', 'Litchfieldite ', 'Luxullianite ', 'Mangerite ', 'Minette ', 'Novaculite ', 'Pyrolite ', 'Rapakivigranite ', 'Rhombporphyry ', 'Shonkinite ', 'Taconite ', 'Teschenite ', 'Theralite ', 'Variolite ']],
   "Elements": [['Hydrogen ', 'Helium ', 'Lithium ', 'Beryllium ', 'Boron ', 'Carbon ', 'Nitrogen ', 'Oxygen ', 'Fluorine ', 'Neon ', 'Sodium ', 'Magnesium ', 'Aluminum,Aluminium ', 'Silicon ', 'Phosphorus ', 'Sulfur ', 'Chlorine ', 'Argon ', 'Potassium ', 'Calcium ', 'Scandium ', 'Titanium ', 'Vanadium ', 'Chromium ', 'Manganese ', 'Iron ', 'Cobalt ', 'Nickel ', 'Copper ', 'Zinc ', 'Gallium ', 'Germanium ', 'Arsenic ', 'Selenium ', 'Bromine ', 'Krypton ', 'Rubidium ', 'Strontium ', 'Yttrium ', 'Zirconium ', 'Niobium ', 'Molybdenum ', 'Technetium ', 'Ruthenium ', 'Rhodium ', 'Palladium ', 'Silver ', 'Cadmium ', 'Indium ', 'Tin ', 'Antimony ', 'Tellurium ', 'Iodine ', 'Xenon ', 'Cesium ', 'Barium ', 'Lanthanum ', 'Cerium ', 'Praseodymium ', 'Neodymium ', 'Promethium ', 'Samarium ', 'Europium ', 'Gadolinium ', 'Terbium ', 'Dysprosium ', 'Holmium ', 'Erbium ', 'Thulium ', 'Ytterbium ', 'Lutetium ', 'Hafnium ', 'Tantalum ', 'Tungsten ', 'Rhenium ', 'Osmium ', 'Iridium ', 'Platinum ', 'Gold ', 'Mercury ', 'Thallium ', 'Lead ', 'Bismuth ', 'Polonium ', 'Astatine ', 'Radon ', 'Francium ', 'Radium ', 'Actinium ', 'Thorium ', 'Protactinium ', 'Uranium ', 'Neptunium ', 'Plutonium ', 'Americium ', 'Curium ', 'Berkelium ', 'Californium ', 'Einsteinium ', 'Fermium ', 'Mendelevium ', 'Nobelium ', 'Lawrencium ', 'Rutherfordium ', 'Dubnium ', 'Seaborgium ', 'Bohrium ', 'Hassium ', 'Meitnerium ', 'Darmstadtium ', 'Roentgenium ', 'Copernicium ', 'Nihonium ', 'Flerovium ', 'Moscovium ', 'Livermorium ', 'Tennessine ', 'Oganesson ']],
-  "Action": [['gamble ', 'insult people ', 'make a scene ', 'attempt to sell items ', 'pickpocket ', 'flirt ', 'dance ', 'yell incoherently ', 'spout gibberish ', 'poke people ', 'look at people ', 'smirk evily ', 'gaze over the horizon ', 'stare into the sun ', 'drink from the local fountain ', 'eat everything in sight ', 'workout ', 'go insane ', 'go crazy ', 'get a drink ', 'sell random things ', 'beg for money ', 'host a reunion ', 'hunt for vampires ', 'sue the local leader ', 'stir up trouble ', 'glare at people ', 'water plants ', 'start a farm ', 'get a job ', 'hire workers ', 'seek out fortune ', 'bask in the sun ', 'drink from puddles ', 'use the restroom ', 'gaze into peoples eyes ', 'look in a mirror ', 'brag about random accomplishments ', 'change clothes ', 'go for a jog ', 'show off ', 'spout conspiracy theories ', 'draw on random surfaces ', 'make animal sounds ', 'have a mental breakdown ', 'laugh ', 'joke ', 'eat some food ', 'have a drink ', 'get drunk ', 'get high ', 'pretend to be mentally disabled ', 'pretend to be injured ', 'get attention ', 'cause people to look at them ', 'pretend to know things ', 'sing a song ', 'pass out money ', 'move in ', 'take up residence ', 'purchase a house ', 'start a buisness ', 'open a bar ', 'go to the local tavern and spout stories ', 'go swimming ', 'invent new things ', 'develope technology ', 'volunteer at the hospital ', 'run in circles ', 'patrol the area ', 'mumble incoherently ', 'stumble around ', 'pretend to be stupid ', 'pretend to be 90 degrees crosseyed ', 'pan handle ', 'beg for money in the streets ', 'spy ', 'watch their surroundings ', 'turn maniacal ', 'lose their mind ', 'pretend to be part of a group ', 'provide false answers ', 'act like a prophet ', 'share wisdom ', 'find a girlfriend ', 'find a boyfriend ', 'act mentally disabled ', 'pretend to be drunk ', 'drink alot of alcohol ', 'taste random peoples meals ', 'talk to oneself ', 'flick glasses to make music ', 'start a band ', 'play a musical instrument ', 'dig for treasure ', 'laugh non stop ', 'hallucinate ', 'reminisce ', 'give directions, pretending to know the way ', 'hide ', 'stand around ', 'lurk ', 'lay down ', 'go to sleep ', 'run around really fast ', 'go hyperactive ', 'bestow blessings ', 'perform an exorcism ', 'celebrate the holiday ', 'act festive ', 'make loud noises ', 'serve food ', 'serve drinks ', 'start a party ', 'party ', 'celebrate ', 'display great joy ', 'pretend to be a fortune teller ', 'foresee the future ', 'have prophetic visions ', 'walk into a bar ', 'pose incase someones watching ', 'walk in a particular manner ', 'play really loud music ', 'shriek incoherently ', 'squawk like a bird ', 'moo like a cow ', 'neigh like a horse ', 'imitate animal movements ', 'seek out enlightenment ', 'explain things your way ', 'gather a following ', 'advertise ', 'make friends ', 'sing ', 'eat ', 'swim ', 'prowl ', 'stalk ', 'skip ', 'play ', 'roll ', 'run around ', 'have fun ', 'sniff around ', 'climb around ', 'smile ', 'go wild ', 'help random people ', 'assist everyone ', 'be helpful ', 'donate to society ', 'donate to charity ', 'run fast as you can ', 'become a super hero ', 'rise in society ', 'become a hero ', 'be a super nerd ', 'run around the neighborhood ', 'hang out with all of your friends ', 'go to the mall and shop ', 'play games at the mall ', 'go to the arcade ', 'get the top score in a game ', 'run in circles really fast ', 'learn how to talk to donkeys ', 'learn how to talk to gorillas ', 'learn how to talk to giraffes ', 'learn how to talk to horses ', 'get dressed ', 'dress like a pirate ', 'dress like a king ', 'dress like a bandit ', 'dress like a rogue ']],
+  "Action": [["gamble ", "insult people ", "make a scene ", "attempt to sell items ", "pickpocket ", "flirt ", "dance ", "yell incoherently ", "spout gibberish ", "poke people ", "look at people ", "smirk evilly ", "gaze over the horizon ", "stare into the sun ", "drink from the local fountain ", "eat everything in sight ", "workout ", "go insane ", "go crazy ", "get a drink ", "sell random things ", "beg for money ", "host a reunion ", "hunt for vampires ", "sue the local leader ", "stir up trouble ", "glare at people ", "water plants ", "start a farm ", "get a job ", "hire workers ", "seek out fortune ", "bask in the sun ", "drink from puddles ", "use the restroom ", "gaze into people's eyes ", "look in a mirror ", "brag about random accomplishments ", "change clothes ", "go for a jog ", "show off ", "spout conspiracy theories ", "draw on random surfaces ", "make animal sounds ", "have a mental breakdown ", "laugh ", "joke ", "eat some food ", "have a drink ", "get drunk ", "get high ", "pretend to be mentally disabled ", "pretend to be injured ", "get attention ", "cause people to look at them ", "pretend to know things ", "sing a song ", "pass out money ", "move in ", "take up residence ", "purchase a house ", "start a business ", "open a bar ", "go to the local tavern and spout stories ", "go swimming ", "invent new things ", "develop technology ", "volunteer at the hospital ", "run in circles ", "patrol the area ", "mumble incoherently ", "stumble around ", "pretend to be stupid ", "pretend to be 90 degrees cross-eyed ", "panhandle ", "beg for money in the streets ", "spy ", "watch their surroundings ", "turn maniacal ", "lose their mind ", "pretend to be part of a group ", "provide false answers ", "act like a prophet ", "share wisdom ", "find a girlfriend ", "find a boyfriend ", "act mentally disabled ", "pretend to be drunk ", "drink a lot of alcohol ", "taste random people's meals ", "talk to oneself ", "flick glasses to make music ", "start a band ", "play a musical instrument ", "dig for treasure ", "laugh non-stop ", "hallucinate ", "reminisce ", "give directions, pretending to know the way ", "hide ", "stand around ", "lurk ", "lay down ", "go to sleep ", "run around really fast ", "go hyperactive ", "bestow blessings ", "perform an exorcism ", "celebrate the holiday ", "act festive ", "make loud noises ", "serve food ", "serve drinks ", "start a party ", "party ", "celebrate ", "display great joy ", "pretend to be a fortune teller ", "foresee the future ", "have prophetic visions ", "walk into a bar ", "pose in case someone's watching ", "walk in a particular manner ", "play really loud music ", "shriek incoherently ", "squawk like a bird ", "moo like a cow ", "neigh like a horse ", "imitate animal movements ", "seek out enlightenment ", "explain things your way ", "gather a following ", "advertise ", "make friends ", "sing ", "eat ", "swim ", "prowl ", "stalk ", "skip ", "play ", "roll ", "run around ", "have fun ", "sniff around ", "climb around ", "smile ", "go wild ", "help random people ", "assist everyone ", "be helpful ", "donate to society ", "donate to charity ", "run as fast as you can ", "become a superhero ", "rise in society ", "become a hero ", "be a super nerd ", "run around the neighborhood ", "hang out with all of your friends ", "go to the mall and shop ", "play games at the mall ", "go to the arcade ", "get the top score in a game ", "run in circles really fast ", "learn how to talk to donkeys ", "learn how to talk to gorillas ", "learn how to talk to giraffes ", "learn how to talk to horses ", "get dressed ", "dress like a pirate ", "dress like a king ", "dress like a bandit ", "dress like a rogue ","play pranks ", "mime ", "juggle ", "perform magic tricks ", "throw a pie in someone's face ", "circus act ", "paint graffiti ", "create street art ", "chalk drawings ", "busk ", "street perform ", "mime ", "do impressions ", "imitate celebrities ", "act out movie scenes ", "quote famous lines ", "wear costumes ", "disguise oneself ", "play hide and seek ", "organize a flash mob ", "start a conga line ", "lead a parade ", "blow soap bubbles ", "fly a kite ", "play with yo-yos ", "spin tops ", "challenge people to games ", "arm wrestle ", "perform acrobatics ", "do parkour ", "skateboard ", "rollerblade ", "scoot around ", "climb trees ", "build sandcastles ", "collect rocks ", "watch clouds ", "birdwatch ", "feed ducks ", "rescue animals ", "adopt a pet ", "walk dogs ", "pretend to be a tour guide ", "give historical facts ", "create a scavenger hunt ", "plant trees ", "pick flowers ", "whittle wood ", "carve sculptures ", "knit ", "crochet ", "sew ", "cook ", "bake ", "barbecue ", "tell ghost stories ", "make shadow puppets ", "light fireworks ", "blow candles ", "meditate ", "do yoga ", "practice martial arts ", "mime fencing ", "act like a ninja ", "pretend to be a spy ", "spy on birds ", "whisper secrets ", "gossip ", "overhear conversations ", "eavesdrop ", "whisper ", "mumble ", "mutter ", "shout ", "scream ", "cry wolf ", "howl ", "bark ", "meow ", "purr ", "hiss ", "snarl ", "growl ", "roar ", "squeal ", "chirp ", "trill ", "coo ", "whistle ", "hum ", "chant ", "sing opera ", "rap ", "yodel ", "scat ", "harmonize ", "mimic sounds ", "play with echoes ", "echo speech ", "do ventriloquism ", "throw voice ", "mimic accents ", "use sign language ", "teach sign language ", "play charades ", "act out charades ", "do impressions of friends ", "mimic family members ", "imitate teachers ", "pretend to be a robot ", "act like a zombie ", "mimic a ghost ", "pretend to be invisible ", "act like a superhero ", "pretend to have superpowers ", "fly around ", "use imaginary gadgets ", "wear a cape ", "put on a mask ", "dress as a comic book character ", "create a comic strip ", "draw caricatures ", "sketch ", "doodle ", "paint ", "create art ", "color ", "sculpt ", "model clay ", "play with play-dough ", "make paper airplanes ", "fold origami ", "make balloon animals ", "blow bubbles ", "play with marbles ", "spin dreidels ", "create mud pies ", "collect leaves ", "press flowers ", "make garlands ", "weave baskets ", "knit scarves ", "sew patches ", "embroider ", "do needlepoint ", "quilt ", "patchwork ", "make friendship bracelets ", "tie-dye ", "do batik ", "paint faces ", "apply makeup ", "do hairstyles ", "braid hair ", "tie knots ", "make knots ", "untangle knots ", "play jump rope ", "skip rope ", "hopscotch ", "play tag ", "hide and seek ", "play freeze tag ", "play red light green light ", "do the limbo ", "dance in the rain ", "puddle jump ", "catch snowflakes ", "make snow angels ", "build snowmen ", "have a snowball fight ", "slide on ice ", "ice skate ", "roller skate ", "ride a unicycle ", "balance beam ", "walk a tightrope ", "climb ropes ", "swing ", "play on swings ", "slide ", "climb jungle gyms ", "play seesaw ", "spin on merry-go-rounds ", "play tetherball ", "bounce on trampolines ", "play in sprinklers ", "jump in leaves ", "rake leaves ", "plant seeds ", "water plants ", "garden ", "weed ", "harvest ", "pick fruits ", "make jam ", "preserve food ", "can vegetables ", "pickle ", "brew tea ", "make coffee ", "serve ice cream ", "churn butter ", "milk cows ", "shear sheep ", "knit from wool ", "spin yarn ", "weave ", "felt ", "darn ", "mend ", "repair ", "fix ", "tinker ", "invent ", "create gadgets ", "assemble ", "disassemble ", "build ", "construct ", "erect ", "demolish ", "break ", "shatter ", "smash ", "crush ", "flatten ", "roll ", "fold ", "pack ", "unpack ", "organize ", "sort ", "categorize ", "archive ", "file ", "stack ", "line up ", "arrange ", "decorate ", "adorn ", "embellish ", "beautify ", "clean ", "sweep ", "mop ", "scrub ", "polish ", "shine ", "buff ", "wax ", "dust ", "vacuum ", "wash ", "rinse ", "dry ", "fold laundry ", "iron ", "press ", "hang ", "sew buttons ", "mend tears ", "patch holes ", "darn socks ", "knit sweaters ", "crochet blankets ", "weave rugs ", "make pillows ", "stuff cushions ", "sew curtains ", "make drapes ", "craft ", "create ", "produce ", "manufacture ", "assemble models ", "build puzzles ", "play board games ", "do jigsaw puzzles ", "solve riddles ", "play chess ", "play checkers ", "do Sudoku ", "play cards ", "shuffle ", "deal ", "bet ", "fold ", "bluff ", "call ", "raise ", "win ", "lose ", "cheat ", "trick ", "deceive ", "mislead ", "confuse ", "baffle ", "puzzle ", "amaze ", "astound ", "impress ", "charm ", "woo ", "seduce ", "flatter ", "compliment ", "praise ", "applaud ", "cheer ", "clap ", "whistle ", "hoot ", "holler ", "shout ", "yell ", "scream ", "laugh ", "giggle ", "chuckle ", "snicker ", "guffaw ", "roar with laughter ", "howl with laughter ", "cry ", "sob ", "weep ", "mourn ", "lament ", "sigh ", "moan ", "groan ", "grunt ", "sneeze ", "cough ", "snort ", "sniffle ", "whimper ", "whine ", "squeal ", "shriek ", "yelp ", "bellow ", "mutter ", "whisper ", "hush ", "shush ", "silence ", "quiet ", "calm ", "soothe ", "comfort ", "console ", "pacify ", "appease ", "mollify ", "placate ", "reassure ", "encourage ", "motivate ", "inspire ", "uplift ", "cheer up ", "brighten ", "lighten ", "elate ", "exhilarate ", "thrill ", "excite ", "animate ", "energize ", "invigorate ", "stimulate ", "activate ", "arouse ", "awaken ", "rouse ", "mobilize ", "galvanize ", "spur ", "provoke ", "stir ", "agitate ", "rile ", "irritate ", "annoy ", "bother ", "pester ", "harass ", "badger ", "nag ", "heckle ", "taunt ", "tease ", "mock ", "ridicule ", "scoff ", "sneer ", "jeer ", "gibe ", "jibe ", "jest ", "quip ", "banter ", "parody ", "satirize ", "lampoon ", "caricature ", "exaggerate ", "amplify ", "inflate ", "puff up ", "swell ", "blow up ", "explode ", "ignite ", "spark ", "kindle ", "light ", "burn ", "blaze ", "flare ", "glow ", "shine ", "radiate ", "emit ", "exude ", "ooze ", "leak ", "drip ", "seep ", "trickle ", "pour ", "stream ", "flow ", "rush ", "gush ", "spurt ", "squirt ", "spray ", "mistle ", "dampen ", "moisten ", "soak ", "drench ", "saturate ", "flood ", "deluge ", "swamp ", "submerge ", "dive ", "plunge ", "dip ", "immerse ", "bathe ", "wash ", "clean"]],
   "Robot": [["Beep ", "Bleep ", "Boop ", "Bloop "]],
   "Uncertain": [["Uh ", "Um ", "Oh ", "idk ", "maybe ", "possibly ", "uncertain ", "not certain"]],
   "Amazed": [["Whoa ", "Wow ", "Whoa ho ho ", "Whoa ho ", "Wowie ", "Wowie wow wow ", "No way "]],
@@ -26,60 +26,150 @@ const encmatrixcontainer = {
   "Game Characters" : [["Samus Aran ","Master Chief ","Spartan 117 ","Ikora ","Zavala ","The Traveler ","Shaxx ","Cayde-6 ","Xur ","Sargeant Johnson ","Osiris ","The Drifter ","Saint-14 ","Gahlran ","Savathun ","Sam Fisher ","Lara Croft ","Solid Snake ","Kratos ","Cloud Strife ","Tifa ","Agent 47 ","Geralt ","Leon Kennedy ","Jill Valentine ","Scorpion ","Alduin ","Link ","Donkey Kong ","Diddy Kong ","Mario ","Fox McCloud ","Ryu Hayabusa ","Thrall ","Grom ","Sylvanas ","Jaina ","Uther ","Arthas ","The Lich King "]],
   "Cat" : [["meow ","purr "]],
   "Dog" : [["woof ","ruff "]],
-  "Bird" : [["tweet ","chirp ","caw ","coo coo "]],
+  "Bird" : [["chirp ", "tweet ", "warble ", "whistle ", "trill ", "coo ", "hoot ", "squawk ", "caw ", "screech ", "chatter ", "cluck ", "honk ", "quack ", "peep ", "chime ", "sing ", "yodel ", "gobble ", "purr ", "click ", "buzz ", "hoot ", "wail ", "shriek ", "mew ", "croon ", "bark ", "whine ", "grate ", "rasp ", "whir ", "pip ", "squeak ", "whelp ", "whicker ", "clack ", "trumpet ", "crow ", "hoot ", "murmur ", "keen ", "rattle ", "churr ", "gurgle ", "hiss ", "scold ", "chuck ", "whirr ", "vibrate ", "thrum ", "gargle "]],
   "Frog" : [["ribbit "]],
   "Cow" : [["moo ","mooo ","moooo ","mooooo "]],
   "Matrix" : [["0","1","2","3","4","5","6","7","8","9"]],
-  "British" : [["Lad ","Bloke ","Bonkers ","Daft ","Dodgy ","Quid ","Trollied ","Knackered ","Throwing a wobbly ","Cuppa ","Bloody ","Chuffed ","Skint ","Fiver ","Tenner ","Bog ","Chav ","Mug ","Git ","Cheeky ","Slag off ","Sod ","Grafting ","Muppet ","Walk In Formation ","God save the queen ","Prat ","Nosh ","Buzzin ","Pied off ","Bev ","Blimey ","Gutted ","Kerfuffle ","Innit ","Cracking ","Minging ","Proper ","Nick ","Faffling around ","Pikey "]],
-  "Mario" : [["Mario ", "Yoshi ","Princess Peach ","Koopa ","Bowser ","Mushroom ","Fire Flower","Cape "]],
+  "British" : [["Lad ", "Bloke ", "Bonkers ", "Daft ", "Dodgy ", "Quid ", "Trollied ", "Knackered ", "Throwing a wobbly ", "Cuppa ", "Bloody ", "Chuffed ", "Skint ", "Fiver ", "Tenner ", "Bog ", "Chav ", "Mug ", "Git ", "Cheeky ", "Slag off ", "Sod ", "Grafting ", "Muppet ", "Walk In Formation ", "God save the queen ", "Prat ", "Nosh ", "Buzzin ", "Pied off ", "Bev ", "Blimey ", "Gutted ", "Kerfuffle ", "Innit ", "Cracking ", "Minging ", "Proper ", "Nick ", "Faffling around ", "Pikey ", "Geezer ", "Naff ", "Gutted ", "Gutted ", "Knackered ", "Gutted ", "Chuffed to bits ", "Gutted ", "Stitched up ", "Chuffed ", "Chuffed ", "Gutted ", "Brassed off ", "Gutted ", "Chuffed ", "Loo ", "Chav ", "Numpty ", "Plonker ", "Cheeky chappy ", "Take the mickey ", "Sodding ", "Grind ", "Eejit ", "Form up ", "Long live the king ", "Twit ", "Scran ", "Banging ", "Dumped ", "Brew ", "Cor ", "Devastated ", "To-do ", "Isn't it ", "Brilliant ", "Rank ", "Right ", "Pinch ", "Faff ", "Traveller ", "Punter ", "Rubbish ", "Heartbroken ", "Chuffed ", "Shattered ", "Gutted ", "Over the moon ", "Gutted ", "Set up ", "Pleased ", "Gutted ", "Skint ", "Miffed ", "Gutted ", "Pleased ", "Lav ", "Yob ", "Muppet ", "Idiot ", "Saucy ", "Wind up ", "Bloody ", "Hard graft ", "Dope ", "Line up ", "God save the King ", "Nitwit ", "Grub ", "Excited ", "Left ", "Cider ", "Blimey ", "Upset ", "Commotion ", "Ain't it ", "Fantastic ", "Grotty ", "Really ", "Steal ", "Waste time ", "Gypsy ", "Chap ", "Crap ", "Disappointed ", "Chuffed ", "Exhausted ", "Gutted ", "Ecstatic ", "Gutted ", "Framed ", "Delighted ", "Gutted ", "Broke ", "Annoyed ", "Gutted ", "Thrilled ", "Toilet ", "Hooligan ", "Dork ", "Fool ", "Sassy ", "Mock ", "Damn ", "Toil ", "Moron ", "Queue up ", "God bless the monarchy ", "Dumb ", "Food ", "Stoked ", "Rejected ", "Pint ", "Wow ", "Sad ", "Ruckus ", "Right ", "Amazing ", "Disgusting ", "Absolutely ", "Lift ", "Muck about ", "Roma "]],
+  "Candy" : [["Skittles ","Kitkat ","Snickers ","Twix ","Hersheys ","Chocolate ","M&Ms ","Caramel ","Vanilla Ice Cream ","Ice Cream Sandwich ","Jelly Donut ","Honey Bun ","Cookie Crumble ","Crunch ","White Chocolate ","Fruit Rollup ","Jaw Breaker ","Gum Ball "]],
+  "Soda" : [["Pepsi ","Root Beer ","Cream Soda ","Coca Cola ","Mountain Dew ","7 Up ","Monster ","Mr Pib ","Fanta ","Orange Crush ","Sunkist ","Sierra Mist ","Canada Dry ","RC Cola ","Ginger Ale ","Pibb Xtra ","Mello Yello ","Sprite ","Orange Soda ","Im Bru ","White Lemonade ","Dr Pepper ","Goombay Punch ","Fruit Punch ","Milk-whey ","Rivella ","Mauby Fizz ","Thurns Up ","Ramune ","Tribeco "]],
+  "World of Warcraft" : [["Human ", "Orc ", "Dwarf ", "Night Elf ", "Undead ", "Tauren ", "Gnome ", "Troll ", "Blood Elf ", "Draenei ", "Worgen ", "Goblin ", "Pandaren ", "Nightborne ", "Highmountain Tauren ", "Void Elf ", "Lightforged Draenei ", "Zandalari Troll ", "Kul Tiran ", "Dark Iron Dwarf ", "Vulpera ", "Mag'har Orc ", "Mechagnome ", "Dracthyr ","Stormwind ", "Orgrimmar ", "Ironforge ", "Darnassus ", "Thunder Bluff ", "Undercity ", "Silvermoon City ", "Exodar ", "Dalaran ", "Shattrath ", "Valley of Eternal Blossoms ", "Suramar ", "Boralus ", "Dazar'alor ", "Oribos ", "Tirisfal Glades ", "Silverpine Forest ", "Western Plaguelands ", "Eastern Plaguelands ", "Hillsbrad Foothills ", "Arathi Highlands ", "The Hinterlands ", "Searing Gorge ", "Burning Steppes ", "Blasted Lands ", "Swamp of Sorrows ", "Deadwind Pass ", "Duskwood ", "Westfall ", "Elwynn Forest ", "Redridge Mountains ", "Loch Modan ", "Dun Morogh ", "Wetlands ", "Teldrassil ", "Darkshore ", "Ashenvale ", "Stonetalon Mountains ", "Desolace ", "Feralas ", "Thousand Needles ", "Tanaris ", "Un'Goro Crater ", "Silithus ", "Winterspring ", "Mulgore ", "The Barrens ", "Dustwallow Marsh ", "Azshara ", "Felwood ", "Moonglade ", "Hyjal ", "Uldum ", "Vashj'ir ", "Mount Hyjal ", "Deepholm ", "Twilight Highlands ", "Tol Barad ", "Gilneas ", "Mountains of Gilneas ", "Ruins of Gilneas ", "Kezan ", "The Lost Isles ", "Krasarang Wilds ", "Valley of the Four Winds ", "Kun-Lai Summit ", "Townlong Steppes ", "Dread Wastes ", "Vale of Eternal Blossoms ", "Gorgrond ", "Talador ", "Spires of Arak ", "Nagrand ", "Shadowmoon Valley ", "Frostfire Ridge ", "Tanaan Jungle ", "Broken Shore ", "Highmountain ", "Stormheim ", "Val'sharah ", "Suramar ", "Azsuna ", "Broken Isles ", "Mac'Aree ", "Antoran Wastes ", "Krokuun ", "Argus ", "Drustvar ", "Stormsong Valley ", "Tiragarde Sound ", "Nazmir ", "Zuldazar ", "Vol'dun ", "Ardenweald ", "Bastion ", "Maldraxxus ", "Revendreth ", "The Maw ", "Zereth Mortis ", "Dragon Isles ", "The Waking Shores ", "Ohn'ahran Plains ", "The Azure Span ", "Thaldraszus "]],
+  "HeartEmojis" : [['💘','💝','💖','💗','💓','❤️','🧡','💛','💚','💙','💜','🤎','🖤','🤍','❤️‍','❤️‍']],
+  "SmileEmojis" : [['🌝','😃','😄','😁','😆','😅','🤣','😂','🙂','🙃','😉','😊','😇','🥰','😍','🤩','🤗','🤭','😀','🌞']],
+  "AnimalEmojis" : [["🐶", "🐱", "🐭", "🐹", "🐰", "🦊", "🐻", "🐼", "🐨", "🐯", "🦁", "🐮", "🐷", "🐽", "🐸", "🐵", "🙈", "🙉", "🙊", "🐒", "🦍", "🦧", "🐔", "🐧", "🐦", "🐤", "🐣", "🐥", "🦅", "🦆", "🦢", "🦉", "🦚", "🦜", "🐺", "🐗", "🐴", "🦄", "🐝", "🪱", "🐛", "🦋", "🐌", "🐞", "🐜", "🪰", "🪲", "🪳", "🦟", "🐢", "🐍", "🦎", "🦖", "🦕", "🐙", "🦑", "🦐", "🦞", "🦀", "🐡", "🐠", "🐟", "🐬", "🦈", "🐳", "🐋", "🦭", "🦦", "🦨", "🦥", "🐘", "🦒", "🦓", "🦛", "🦏", "🐪", "🐫", "🦙", "🦘", "🐎", "🦌", "🐖", "🐑", "🐐", "🐕", "🐩", "🦮", "🐕‍🦺", "🐈", "🐈‍⬛"]],
+  "FoodEmojis" : [["🍏","🍎","🍐","🍊","🍋","🍌","🍉","🍇","🍓","🫐","🍈","🍒","🍑","🥭","🍍","🥥","🥝","🍅","🍆","🥑","🥦","🥬","🥒","🌶️","🌽","🥕","🫑","🥔","🍠","🥐","🥯","🍞","🥖","🧀","🥚","🍳","🧇","🥞","🧈","🥓","🍗","🍖","🥩","🍔","🍟","🍕","🌭","🥪","🌮","🌯","🥙","🧆","🥗","🥘","🧉","🍲","🍝","🍜","🍛","🍣","🍱","🥟","🦪","🍤","🍙","🍚","🍘","🍥","🥠","🥮","🍢","🍡","🍧","🍨","🍦","🥧","🧁","🍰","🎂","🍮","🍭","🍬","🍫","🍿","🍩","🍪"]],
+  "WeatherEmojis" : [["☀️", "🌤", "⛅", "🌥", "☁️", "🌦", "🌧", "⛈", "🌩", "🌨", "❄️", "☃️", "⛄", "💨", "🌬", "💧", "🌫", "🌪", "🌈"]],
+  "SportsEmojis" : [["⚽", "🏀", "🏈", "⚾", "🎾", "🏐", "🏒", "🏓", "🏸", "🏑", "🏏", "⛳", "🥊", "🏇", "🏆"]],
+  "Mario" : [["Coin ", "Goomba ", "Power-Up ", "Mushroom ", "Fire Flower ", "Star ", "Super Mario ", "Luigi ", "Princess Peach ", "Bowser ", "Yoshi ", "Warp Pipe ", "Block ", "Question Block ", "Brick Block ", "1-Up Mushroom ", "Flagpole ", "Castle ", "Level ", "World ", "Coin Block ", "Piranha Plant ", "Shell ", "Koopa Troopa ", "Lakitu ", "Spiny ", "Thwomp ", "Bullet Bill ", "Boo ", "Tanooki Suit ", "Fireball ", "Hammer Bros ", "P-Switch ", "Checkpoint ", "Super Star ", "Life ", "Jump ", "Double Jump ", "Triple Jump ", "Ground Pound ", "Wall Jump ", "Spin Jump ", "Invincibility ", "Hidden Block ", "Secret Exit ", "Bonus Stage ", "Mini-Game ", "Power Star ", "Shine Sprite ", "Blue Coin ", "Red Coin ", "Green Star ", "Purple Coin ", "8-Bit ", "Pipe ", "Cape Feather ", "Propeller Mushroom ", "Bee Mushroom ", "Boo Mushroom ", "Ice Flower ", "Cloud Mario ", "Raccoon Mario ", "Frog Suit ", "Penguin Suit ", "Mega Mushroom ", "Mini Mushroom ", "POW Block ", "Spring Mushroom ", "Boomerang Flower ", "Super Leaf ", "Carrot ", "Super Bell ", "Double Cherry ", "Coin Ring ", "Lava ", "Underwater ", "Sky ", "Sand ", "Ice ", "Cloud ", "Ghost House ", "Fortress ", "Airship ", "Time Limit ", "100 Coins ", "Extra Life ", "Warp Zone ", "Vine ", "Chain Chomp ", "Bob-omb ", "Cheep Cheep ", "Blooper ", "Monty Mole ", "Spike Top ", "Pokey ", "Dry Bones ", "Buzzy Beetle ", "Spike ", "Wiggler ", "Chargin' Chuck ", "Magikoopa ", "Boom Boom ", "Pom Pom ", "King Bob-omb ", "Petey Piranha ", "Kamek ", "Bowser Jr. ", "Toad ", "Toadette ", "Nabbit ", " Rosalina ", "Luma ", "Cappy ", "Odyssey ", "Moon ", "Mario Kart ", "Drift ", "Item Box ", "Banana Peel ", "Green Shell ", "Red Shell ", "Blue Shell ", "Lightning Bolt ", "Mushroom Cup ", "Flower Cup ", "Star Cup ", "Special Cup ", "Rainbow Road ", "Shortcut ", "Boost ", "Glider ", "Trick ", "Drafting ", "Slipstream ", "Time Trial ", "Grand Prix ", "VS Mode ", "Battle Mode ", "Coin Runners ", "Shine Thief ", "Bob-omb Blast ", "Renegade Roundup ", "Balloon Battle ", "Coin Battle ", "Double Dash ", "Character ", "Vehicle ", "Kart ", "Bike ", "ATV ", "Weight Class ", "Drift Type ", "Speed ", "Acceleration ", "Weight ", "Handling ", "Traction ", "Mini-Turbo ", "Stat ", "Customization ", "Engine ", "Tires ", "Glider ", "Emblem ", "Horn ", "Mii ", " amiibo ", "Online Play ", "Local Multiplayer ", "Split-Screen ", "Download Play ", "Wi-Fi ", "Tournament ", "Worldwide ", "Regional ", "Friends ", "Rank ", "VR ", "MKTV ", "Ghost Data ", "Replay ", "Highlight Reel ", "Photo Mode ", "Mii Racing Suit ", "Smart Steering ", "Auto-Accelerate ", "Motion Controls ", "Gyro ", "IR Sensor ", "HD Rumble ", " amiibo Box ", "Booster Course Pass ", "Wave ", "DLC ", "Expansion ", "Retro Track ", "New Track ", "Nitro ", "Staff Ghost ", "Community ", "Leaderboard ", "Achievement ", "Stunt ", "Jump Boost ", "Rocket Start ", "Item Management ", "Chain ", "Combo ", "Drift Spark ", "Super Drift ", "Ultra Mini-Turbo ", "Hop ", "Trick Jump ", "Bullet Bill ", "Golden Mushroom ", "Starman ", "Boo's Block Party ", "Bob-omb Factory ", "Shy Guy Falls ", "Sweet Sweet Canyon ", "Cloudtop Cruise ", "Bone-Dry Dunes ", "Bowser's Castle ", "Rainbow Road ", "Big Blue ", "Excite Bike Arena ", "Hyrule Circuit ", "Animal Crossing ", "Wario's Gold Mine ", "Mute City ", "Dragon Driftway ", "Ice Ice Outpost ", "Electrodrome ", "Mount Wario ", "Sunshine Airport ", "Dolphin Shoals ", "Electrodrome ", "Cloudtop Cruise ", "Bone-Dry Dunes ", "Bowser's Castle ", "Rainbow Road ", "Big Blue ", "Mute City ", "Hyrule Circuit ", "Animal Crossing ", "Wario's Gold Mine ", "Excite Bike Arena ", "Dragon Driftway ", "Ice Ice Outpost ", "Electrodrome ", "Mount Wario ", "Sunshine Airport ", "Dolphin Shoals ", "Electrodrome ", "Cloudtop Cruise ", "Bone-Dry Dunes ", "Bowser's Castle ", "Rainbow Road ", "Big Blue ", "Mute City ", "Hyrule Circuit ", "Animal Crossing ", "Wario's Gold Mine ", "Excite Bike Arena ", "Dragon Driftway ", "Ice Ice Outpost ", "Electrodrome ", "Mount Wario ", "Sunshine Airport ", "Dolphin Shoals ", "Electrodrome ", "Cloudtop Cruise ", "Bone-Dry Dunes ", "Bowser's Castle ", "Rainbow Road ", "Big Blue ", "Mute City ", "Hyrule Circuit ", "Animal Crossing ", "Wario's Gold Mine ", "Excite Bike Arena ", "Dragon Driftway ", "Ice Ice Outpost ", "Electrodrome ", "Mount Wario ", "Sunshine Airport ", "Dolphin Shoals"]],
   "Color" : [["Red ","Green ","Blue ","Yellow ","Orange ","Red ","Rainbow ","White ","Black ","Pink ","Purple ","Magenta ","Cyan ","Teal "]],
   "Zelda" : [["Link ","Zelda ","Ganondorf ","Master Sword ","Ocarina ","Rupee ","Boomerang ","Bow ","Arrow ","Slingshot ","Sheik ","Zora ","Fairy Fountain ","Potion ","Poe ","Deku "]],
   "Final Fantasy": [["Cloud ","Tifa ","Aerith ","Barret ","Sid ","Red 9 ","Cait Sith ","Yuffi ","Vincent ","Blue Materia ","Greem Materia ","Red Materia ","Yellow Materia ","Purple Materia ","Sephiroth ","Shiva ","Ifrit ","Ragnarok ","Kefka ","Cecil ","Paladin ","White Mage ","Red Mage ","Black Mage ","Rosa ","Yang ","Rydia ","Tellah " ,"Edward ","Palom ","Parom ","Squall ","Reno ","Shinra  ","Terra ","Locke ","Edgar ","Relm ","Umaro ","Gogo ","Shadow ","Cyan ","Setzer ","Gau ","Moogle ","Strago ","Sabin ","Esper ","Kain "]],
   "Metroid" : [["Samus ","Morph Ball ","Charge Cannon ","Space Pirates ","Metroid ","Mother Brain ","Screw Attacck ","Super Jump ","Jump Boots "]]
 }
 
+
 const encmatrixcontainerdata = {
   "Metroid": {
     HasCharacters: 0,
     BaseCharacterDiversity: 3,
-    BaseComplexity:0,
-    BaseDeepCharacterDiversity: 1,    
-    DeepCharacterMode: "All",
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
     RandomCharSize: 0
   },
   "Final Fantasy": {
     HasCharacters: 0,
     BaseCharacterDiversity: 3,
-    BaseComplexity:0,
-    BaseDeepCharacterDiversity: 1,    
-    DeepCharacterMode: "All",
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
+    RandomCharSize: 0
+  },
+  "Zelda": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
     RandomCharSize: 0
   },
   "Color": {
     HasCharacters: 0,
     BaseCharacterDiversity: 3,
-    BaseComplexity:0,
-    BaseDeepCharacterDiversity: 1,    
-    DeepCharacterMode: "All",
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
     RandomCharSize: 0
   },
   "Mario": {
     HasCharacters: 0,
     BaseCharacterDiversity: 3,
-    BaseComplexity:0,
-    BaseDeepCharacterDiversity: 1,    
-    DeepCharacterMode: "All",
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
+    RandomCharSize: 0
+  },
+  "SportsEmojis": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
+    RandomCharSize: 0
+  },
+  "WeatherEmojis": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
+    RandomCharSize: 0
+  },
+  "FoodEmojis": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
+    RandomCharSize: 0
+  },
+  "AnimalEmojis": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
+    RandomCharSize: 0
+  },
+  "SmileEmojis": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
+    RandomCharSize: 0
+  },
+  "HeartEmojis": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
+    RandomCharSize: 0
+  },
+  "World of Warcraft": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
+    RandomCharSize: 0
+  },
+  "Soda": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
     RandomCharSize: 0
   },
   "British": {
     HasCharacters: 0,
     BaseCharacterDiversity: 3,
-    BaseComplexity:0,
-    BaseDeepCharacterDiversity: 1,    
-    DeepCharacterMode: "Invisible",
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
     RandomCharSize: 0
   },
-  "Matrix": {     
+  "Candy": {
+    HasCharacters: 0,
+    BaseCharacterDiversity: 3,
+    BaseComplexity: 0,
+    BaseDeepCharacterDiversity: 1,
+    DeepCharacterMode: "Deep",
+    RandomCharSize: 0
+  },
+  "Matrix": {
     HasCharacters: 0,
     BaseCharacterDiversity: 5,
     BaseComplexity: 2,
@@ -339,6 +429,26 @@ const encmatrixcontainerdata = {
 }
 
 const actionbeginarray = ["gotta ", 'have to ', 'hafta ', 'gonna ', 'must ', 'shall ', 'going to ', 'im going to ', 'im gonna ', 'are you going to '];
+
+
+let currentGradient = 'linear-gradient(to bottom, #000000, #1400848e)';
+
+function changeBackground(Color) {
+    // Here we define new gradients. You could expand this to more complex logic or user input.
+    // const gradients = [
+    //     'linear-gradient(to bottom, #000000, #ff0000)',
+    //     'linear-gradient(to bottom, #000000, #00ff00)',
+    //     'linear-gradient(to bottom, #000000, #0000ff)',
+    //     'linear-gradient(to bottom, #000000, #ffff00)',
+    //     'linear-gradient(to bottom, #000000, #ff00ff)'
+    // ];
+    
+    // Select a random gradient from the array
+    currentGradient = Color;
+    
+    // Apply the new gradient to the body's background
+    document.body.style.background = currentGradient;
+}
 
 function isLetter(str) {
   if (str.length === 1 && str.match(/[a-z]/i)) {
@@ -815,5 +925,5 @@ function SetTheme(theme, themecolor) {
   document.getElementById('encode-types').style.color = themecolor;
 
   document.getElementById('chosentheme').style.color = themecolor;
-
+  document.getElementById('body').style.background = `linear-gradient(to bottom, #000000, ${themecolor})`;
 }
